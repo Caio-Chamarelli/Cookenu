@@ -19,4 +19,4 @@ Para  realização deste projeto foram utilizados:
 -Apresenta uma imagem ilustrativa acompanhada do nome e da descrição detalhada da receita
 ### Página de Adicionar Receita
 -Permite adicionar uma receita com nome, descrição detalhada e imagem
-## [Acesse o site aqui](https://harsh-calendar.surge.sh/)
+## [Acesse o site aqui](https://harsh-calendar.surge.sh/login)
